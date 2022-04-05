@@ -8,7 +8,6 @@
 <!-- Main content -->
 <h1>My first styled page</h1>
 <p>Welcome to my styled page!
-<p>There should be more here, but I don't know what yet.
 <!-- Sign and date the page, it's only polite! --> <address>Made 18 Feb 2022<br>
 by myself.</address>
 </body> </html>
